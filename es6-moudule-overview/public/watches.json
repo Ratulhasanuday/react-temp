@@ -1,0 +1,28 @@
+[
+    {
+      "id": 1,
+      "name": "Jason X Series ",
+      "price": "$199.99"
+    },
+    {
+      "id": 2,
+      "name": "Jason Fit Ultra",
+      "price": "$249.99"
+    },
+    {
+      "id": 3,
+      "name": "Jason Elegance Classic",
+      "price": "$349.99"
+    },
+    {
+      "id": 4,
+      "name": "Jason Gym Master",
+      "price": "$179.99"
+    },
+    {
+      "id": 5,
+      "name": "Jason Adventure Explorer",
+      "price": "$299.99"
+    }
+  ]
+  

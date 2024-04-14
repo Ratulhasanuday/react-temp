@@ -1,0 +1,9 @@
+.cart-container{
+    border: 2px solid green;
+    margin-bottom: 10px;
+    border-radius: 20px;
+}
+.cart-container img{
+ width: 200px;
+ margin-right:  20px;
+}

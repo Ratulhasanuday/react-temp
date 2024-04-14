@@ -1,0 +1,107 @@
+[
+    {
+      "id": 12345,
+      "cover": "https://i.postimg.cc/xC2mRwYs/2.png",
+      "title": "Echoes of the Forgotten",
+      "author": "Emily Jones",
+      "author_img": "https://i.postimg.cc/QNyRRFr2/boy1.png",
+      "posted_date": "March 21, 2024",
+      "reading_time": 15,
+      "hashtags": [
+        "#beginners",
+        "#programming"
+      ]
+    },
+    {
+      "id": 67890,
+      "cover": "https://i.postimg.cc/xC2mRwYs/2.png",
+      "title": "Shadows in the Moonlight",
+      "author": "Daniel Smith",
+      "author_img": "https://i.postimg.cc/QNyRRFr2/boy1.png",
+      "posted_date": "March 20, 2024",
+      "reading_time": 5,
+      "hashtags": [
+        "#beginners",
+        "#programming"
+      ]
+    },
+    {
+      "id": 13579,
+      "cover": "https://i.postimg.cc/xC2mRwYs/2.png",
+      "title": "Whispers of the Past",
+      "author": "Sarah Thompson",
+      "author_img": "https://i.postimg.cc/4Nvm8kDh/boy2.jpg",
+      "posted_date": "March 19, 2024",
+      "reading_time": 25,
+      "hashtags": [
+        "#beginners",
+        "#programming"
+      ]
+    },
+    {
+      "id": 24680,
+      "cover": "https://i.postimg.cc/gkWY0Gst/3.png",
+      "title": "Secrets of the Abyss",
+      "author": "Michael Johnson",
+      "author_img": "https://i.postimg.cc/4Nvm8kDh/boy2.jpg",
+      "posted_date": "March 18, 2024",
+      "reading_time": 30,
+      "hashtags": [
+        "#beginners",
+        "#programming"
+      ]
+    },
+    {
+      "id": 98765,
+      "cover": "https://i.postimg.cc/gkWY0Gst/3.png",
+      "title": "Dreams of Tomorrow",
+      "author": "Jessica Brown",
+      "author_img": "https://i.postimg.cc/Dy4cmZb3/girl1.jpg",
+      "posted_date": "March 17, 2024",
+      "reading_time": 18,
+      "hashtags": [
+        "#beginners",
+        "#programming"
+      ]
+    },
+    {
+      "id": 54321,
+      "cover": "https://i.postimg.cc/wj9LD8q0/4.jpg",
+      "title": "Echoes of Destiny",
+      "author": "David Wilson",
+      "author_img": "https://i.postimg.cc/Dy4cmZb3/girl1.jpg",
+      "posted_date": "March 16, 2024",
+      "reading_time": 22,
+      "hashtags": [
+        "#beginners",
+        "#programming"
+      ]
+    },
+    {
+      "id": 11223,
+      "cover": "https://i.postimg.cc/wj9LD8q0/4.jpg",
+      "title": "Whispers in the Wind",
+      "author": "Amanda White",
+      "author_img": "https://i.postimg.cc/TYxsDFnP/girl2.jpg",
+      "posted_date": "March 15, 2024",
+      "reading_time": 17,
+      "hashtags": [
+        "#beginners",
+        "#programming"
+      ]
+    },
+    {
+      "id": 44556,
+      "cover": "https://i.postimg.cc/xC2mRwYs/2.png",
+      "title": "Mysteries of the Unknown",
+      "author": "Christopher Lee",
+      "author_img": "https://i.postimg.cc/TYxsDFnP/girl2.jpg",
+      "posted_date": "March 14, 2024",
+      "reading_time": 23,
+      "hashtags": [
+        "#beginners",
+        "#programming"
+      ]
+    }
+  ]
+  
